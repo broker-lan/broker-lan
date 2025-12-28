@@ -1,16 +1,17 @@
-## Hi there 👋
+# Software Development & Defensive Cybersecurity
 
-<!--
-**broker-lan/broker-lan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on software development with an emphasis on defensive cybersecurity and security-aware design.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Work
+- Software development and automation  
+- Defensive security and system hardening  
+
+## Languages
+- Go  
+- Python  
+- HTML / CSS  
+
+## Notes
+Most of my work is not public by design.  
+Public repositories are selectively shared and may be experimental or incomplete.
