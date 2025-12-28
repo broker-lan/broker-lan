@@ -10,7 +10,8 @@ I focus on software development with an emphasis on defensive cybersecurity and 
 ## Languages
 - Go  
 - Python  
-- HTML / CSS  
+- HTML / CSS
+- And more.. who knows?
 
 ## Notes
 Most of my work is not public by design.  
